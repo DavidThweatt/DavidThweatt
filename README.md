@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [![website]🌎]
-[![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" />]
+[![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />]
 
 ### Languages and Tools:
 
