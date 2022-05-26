@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-#I'm David, a self taught front end developer.
+##I'm David, a self taught front end developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Land my first Frontend job!
@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />](https://www.linkedin.com/in/david-thweatt-baa08519b/)
+[[Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />](https://www.linkedin.com/in/david-thweatt-baa08519b/)
 
 ### Languages and Tools:
 
