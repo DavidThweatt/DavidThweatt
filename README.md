@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-##I'm David, a self taught front end developer.
+I'm David, a self taught front end developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Land my first Frontend job!
