@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[!Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />](https://www.linkedin.com/in/david-thweatt-baa08519b/)
+[![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />](https://www.linkedin.com/in/david-thweatt-baa08519b/)
 
 ### Languages and Tools:
 
