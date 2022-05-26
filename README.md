@@ -7,6 +7,8 @@
 
 ### Connect with me:
 
+[![name](link to image on GH)](link to your URL)
+
 [![website]🌎]
 [![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />](https://www.linkedin.com/in/david-thweatt-baa08519b/)
 
@@ -25,7 +27,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidthweatt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidthweatt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[website]: https://davidthweatt.com
-[linkedin]: https://linkedin.com/in/davidthweatt
