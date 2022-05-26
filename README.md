@@ -7,11 +7,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)]
 &nbsp;&nbsp;
-[![Linkdin](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![Linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![Linkedin](./img/linkedin-dark.svg)]
 &nbsp;&nbsp;
 
 ### Languages and Tools:
