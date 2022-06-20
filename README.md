@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 I'm David, a self taught front end developer.
 
-- 🌱 I’m currently learning Typscript!
+- 🌱 I’m currently learning Typescript!
 - 🥅 2022 Goals: Contribute to open source!
 - ⚡ Fun fact: i have been to 30 countries!
 
